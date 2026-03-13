@@ -1,0 +1,21 @@
+﻿pet_id,name,species,breed,age,date_of_arrival,temperament,special_needs,status,current_room_id
+1,Bella,Dog,Labrador Retriever,3,03-15-2025,Friendly,None,Healthy,1
+2,Max,Cat,Siamese,2,05-21-2025,Gentle,Dietary restrictions,Under Care,7
+3,Coco,Dog,French Bulldog,4,02-12-2025,Energetic,None,Recovering,3
+4,Luna,Cat,Maine Coon,5,01-30-2025,Calm,Arthritis care,Needs Attention,8
+5,Rocky,Dog,German Shepherd,6,06-07-2025,Protective,None,Healthy,2
+6,Daisy,Rabbit,Holland Lop,1,07-18-2025,Gentle,None,Recovering,12
+7,Oliver,Cat,British Shorthair,3,04-09-2025,Friendly,None,Healthy,9
+8,Ruby,Dog,Beagle,2,08-01-2025,Energetic,None,Under Care,4
+9,Milo,Cat,Ragdoll,4,03-22-2025,Calm,None,Healthy,10
+10,Nala,Dog,Golden Retriever,5,05-10-2025,Friendly,Allergies,Needs Attention,5
+11,Teddy,Dog,Poodle,1,06-30-2025,Energetic,None,Healthy,6
+12,Sophie,Cat,Persian,3,07-15-2025,Calm,Eye care,Recovering,7
+13,Leo,Dog,Boxer,4,02-25-2025,Energetic,None,Healthy,3
+14,Chloe,Rabbit,Mini Rex,2,03-08-2025,Gentle,None,Under Care,13
+15,Simba,Cat,Bengal,5,01-12-2025,Gentle,None,Healthy,11
+16,Buddy,Dog,Dachshund,6,04-20-2025,Friendly,Back support,Needs Attention,1
+17,Lily,Cat,Sphynx,1,05-30-2025,Friendly,Skin care,Recovering,10
+18,Jack,Dog,Border Collie,3,07-05-2025,Energetic,None,Healthy,5
+19,Penny,Rabbit,Dutch,2,06-12-2025,Gentle,None,Under Care,14
+20,Oscar,Cat,Scottish Fold,4,08-18-2025,Calm,None,Healthy,11

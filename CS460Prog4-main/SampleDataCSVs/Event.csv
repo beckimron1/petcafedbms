@@ -1,0 +1,21 @@
+﻿event_id,title,description,room_id,event_date,start_time,end_time,max_attendees,event_type,staff_id
+1,Max's Birthday Bash,"Cake, music, and friends.",12,12-02-2025,9:30 AM,11:00 AM,8,Birthday,14
+2,Clara's Baby Shower,Celebrating Clara's little one.,5,12-02-2025,10:00 AM,12:00 PM,15,Family,3
+3,JuiceUp Company Retreat,Team-building and strategy fun.,16,12-04-2025,1:00 PM,3:00 PM,4,Company,19
+4,Oliver & Emma's Engagement Party,Toasts and laughter all around.,8,12-06-2025,2:00 PM,4:30 PM,14,Wedding/Anniversary,7
+5,Liam's 30th Birthday Blowout,Milestone party with friends.,11,12-07-2025,3:00 PM,5:00 PM,6,Birthday,11
+6,BrightTech Annual Awards Night,Recognizing top performers.,20,12-07-2025,11:00 AM,1:00 PM,5,Company,2
+7,Samantha & Ben's Graduation Celebration,"Fun, food, and friends.",6,12-08-2025,9:00 AM,10:30 AM,8,Graduation,6
+8,BlueSky Holiday Bash,Festive celebration for employees.,15,12-09-2025,12:00 PM,2:00 PM,9,Company,17
+9,Paige's Bridal Shower,"Games, giggles, and love.",2,12-11-2025,1:30 PM,3:30 PM,7,Wedding/Anniversary,8
+10,Hannah & David's Wedding Reception,"Love, dancing, and memories.",13,12-11-2025,10:30 AM,12:30 PM,7,Wedding/Anniversary,5
+11,RocketFuel Innovation Night,Celebrating ideas and breakthroughs.,19,12-13-2025,2:30 PM,4:00 PM,6,Company,12
+12,Tyler's Graduation Party,"Sunshine, splashes, and fun.",5,12-15-2025,12:30 PM,2:30 PM,15,Wedding/Anniversary,1
+13,Fiona & Gabriel's Sustainability Summit,Innovative ideas for a greener world.,10,12-15-2025,9:00 AM,11:30 AM,11,Company,20
+14,Emma's Farewell Brunch,Saying goodbye with friends.,16,12-18-2025,11:30 AM,1:00 PM,4,Family,4
+15,Ian's Sports Day,"Games, competition, and laughter.",8,12-18-2025,3:00 PM,4:30 PM,14,Going Away,9
+16,PixelPlay Holiday Party,Cheerful company celebration.,12,12-20-2025,1:00 PM,3:00 PM,8,Miscellaneous,16
+17,Lucy's Tea Party,"Sweets, tea, and chatter.",11,12-20-2025,9:30 AM,11:30 AM,6,Miscellaneous,10
+18,Mason's Birthday Party,Creative outfits and fun.,2,12-22-2025,2:00 PM,4:00 PM,7,Birthday,18
+19,NextWave Startup Mixer,Networking and collaboration night.,15,12-30-2025,10:00 AM,12:00 PM,9,Company,13
+20,Nora's Picnic in the Park,"Sunshine, snacks, and friends.",13,12-30-2025,12:00 PM,2:30 PM,7,Miscellaneous,15

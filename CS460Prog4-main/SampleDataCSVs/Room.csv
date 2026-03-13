@@ -1,0 +1,21 @@
+﻿room_id,room_name,room_type,max_capacity,is_adoption_area
+1,Puppy Penthouse,Dog,13,Y
+2,Bone Balcony,Dog,7,N
+3,K9 Cabin,Dog,9,Y
+4,Pooch Porch,Dog,12,Y
+5,Woof-top Suite,Dog,15,N
+6,Paws & Relax,Dog,8,N
+7,Purr-sidential Suite,Cat,4,Y
+8,Feline Fine,Cat,14,N
+9,Whisker Wing,Cat,5,Y
+10,Tabby Terrace,Cat,11,N
+11,Kitten Cabana,Cat,6,N
+12,Squeak Suite,Small Animals,8,N
+13,Hedge-Quarters,Small Animals,7,N
+14,Nibble Nook,Small Animals,6,Y
+15,Bug-alow,Small Animals,9,N
+16,Gecko Getaway,Reptiles,4,N
+17,Komodo Corner,Reptiles,5,N
+18,Lizard Lounge,Reptiles,4,Y
+19,Salamander Suite,Reptiles,6,N
+20,Iguana Inn,Reptiles,5,N

@@ -1,0 +1,4 @@
+﻿tier_id,tier_name,description,discount_rate,visit_limit
+1,Day Pass,Join in on the fun for one day! Standard pass for anyone wanting to just start.,0,1
+2,Monthly Membership,"If you want a little more involvement, join the monthly membership! Get discounted food and merchandise as well as 15 visits in one month.",10,15
+3,Annual Membership,"This is for the biggest fans of the cafe! An annual membership gets you a higher discount, priority booking, and unlimited visits in a year.",20,365

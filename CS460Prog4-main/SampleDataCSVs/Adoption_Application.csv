@@ -1,0 +1,21 @@
+﻿application_id,member_id,pet_id,submitted_date,status,reviewed_by,review_date,notes
+1,17,1,10-01-2025,APPROVED,15,10-03-2025,Bella adopted.
+2,15,7,10-01-2025,REJECTED,14,10-04-2025,Insufficient experience for this pet.
+3,10,13,10-02-2025,REJECTED,14,10-05-2025,Reference check failed.
+4,15,3,10-02-2025,REJECTED,6,10-05-2025,Unsatisfactory home visit report.
+5,20,7,10-03-2025,APPROVED,6,10-06-2025,Oliver adopted.
+6,11,8,10-04-2025,REJECTED,12,10-07-2025,Already owns maximum pets allowed.
+7,11,19,10-04-2025,REJECTED,5,10-07-2025,Insufficient experience for this pet.
+8,6,1,10-05-2025,REJECTED,6,10-08-2025,Pet already adopted.
+9,2,13,10-06-2025,APPROVED,18,10-09-2025,Leo adopted.
+10,3,3,10-06-2025,REJECTED,1,10-10-2025,Applicant housing unsuitable.
+11,11,7,10-07-2025,REJECTED,6,10-10-2025,Pet already adopted.
+12,2,8,10-08-2025,APPROVED,1,10-11-2025,Ruby adopted.
+13,13,19,10-09-2025,REJECTED,5,10-12-2025,Reference check failed.
+14,19,13,10-10-2025,REJECTED,11,10-12-2025,Pet already adopted.
+15,11,3,10-10-2025,APPROVED,15,10-13-2025,Coco adopted.
+16,12,8,10-11-2025,REJECTED,20,10-14-2025,Pet already adopted.
+17,18,19,10-12-2025,APPROVED,15,10-15-2025,Penny adopted.
+18,17,3,10-13-2025,REJECTED,5,10-16-2025,Pet already adopted.
+19,5,1,10-14-2025,REJECTED,15,10-17-2025,Pet already adopted.
+20,3,19,10-15-2025,REJECTED,11,10-18-2025,Pet already adopted.
